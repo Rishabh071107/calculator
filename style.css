@@ -8,7 +8,7 @@
 table{
 
 
-    background-color:bisque;
+    background-color:cornsilk;
 
     border-spacing: 30px;
 }
@@ -22,6 +22,9 @@ table{
 .panel{
 
     background-color: white;
+    height: 30px
+    
+
 }
 
 .ru{
@@ -36,4 +39,22 @@ table{
 .equal{
 
     background-color: green;
+}
+
+
+button{
+    width:100%;
+    height:100%;
+    font-size:;
+    font-weight:bold;
+    border: none;
+    border-radius:x;
+    cursor:pointer;
+    box box-sizing: border-box;
+
+}
+td {
+    width:15px;
+    height:15px;
+    padding:0;
 }
