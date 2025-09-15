@@ -8,7 +8,7 @@
 table{
 
 
-    background-color:chocolate;
+    background-color:cadetblue;
 
     border-spacing: 30px;
 }
@@ -51,7 +51,7 @@ button{
     border-radius:x;
     cursor:pointer;
     box box-sizing: border-box;
-
+    color:blue;
 }
 td {
     width:15px;
@@ -64,6 +64,7 @@ td {
         border-spacing: 8;
         border-radius: 10px;
         border: 1px solid; 
-        height: 500px;
-        width: 500px;
+        height: 300px;
+        width: 300px;
     }
+    
