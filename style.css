@@ -28,7 +28,8 @@ table{
 }
 
 .ru{
-    background-color:red
+    color:red;
+    
 }
 
 .cg3{
@@ -52,21 +53,22 @@ button{
     cursor:pointer;
      box-sizing : border-box;
     color:blue;
+    background-color:greenyellow;
     
 }
 
 td {
     width:15px;
     height:15px;
-    padding:0;
+    padding:0px;
 }
 
   table {
-        border-collapse: separate;
+        border-collapse: ;
         border-spacing: 8;
         border-radius: 10px;
-        border: 1px solid; 
-        height: 300px;
-        width: 300px;
+        border: 1px solid;
+        height : 30px;
+        width : 30px;
     }
     
