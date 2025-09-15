@@ -8,7 +8,7 @@
 table{
 
 
-    background-color:cornsilk;
+    background-color:chocolate;
 
     border-spacing: 30px;
 }
@@ -58,3 +58,12 @@ td {
     height:15px;
     padding:0;
 }
+
+  table {
+        border-collapse: separate;
+        border-spacing: 8;
+        border-radius: 10px;
+        border: 1px solid; 
+        height: 500px;
+        width: 500px;
+    }
