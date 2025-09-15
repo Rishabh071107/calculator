@@ -16,7 +16,7 @@ table{
 
 .cg1{
 
-    background-color: blue;
+    background-color: red;
 }
 
 .panel{
@@ -50,9 +50,11 @@ button{
     border: none;
     border-radius:x;
     cursor:pointer;
-    box box-sizing: border-box;
+     box-sizing : border-box;
     color:blue;
+    
 }
+
 td {
     width:15px;
     height:15px;
