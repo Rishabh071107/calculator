@@ -1,0 +1,39 @@
+#bg1{
+   
+    background-image: url(bg.jpg);
+    background-repeat: no repeat;
+    background-size: cover;
+
+}
+table{
+
+
+    background-color:bisque;
+
+    border-spacing: 30px;
+}
+
+
+.cg1{
+
+    background-color: blue;
+}
+
+.panel{
+
+    background-color: white;
+}
+
+.ru{
+    background-color:red
+}
+
+.cg3{
+
+    background-color: blue;
+}
+
+.equal{
+
+    background-color: green;
+}
